@@ -12,12 +12,9 @@
     </marquee>
   </h1>
 
-  <h3>Course Name:</h3>
+  <h3>Choose Skill(s):</h3>
+
   <form method="get">
-
-    <input type="text" name="course" placeholder="AWS DevOps"><br><br>
-
-    <h3>Choose Skill(s):</h3>
     <input type="checkbox" name="skill" value="Code Developing"> Code Developing<br>
     <input type="checkbox" name="skill" value="System Administration"> System Administration<br>
     <input type="checkbox" name="skill" value="Automation"> Automation<br><br>
@@ -28,10 +25,7 @@
       </font>
       <input type="submit" value="D G Prasad">
     </marquee>
-
   </form>
 
 </body>
 </html>
-
-
