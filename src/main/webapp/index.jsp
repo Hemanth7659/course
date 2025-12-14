@@ -9,6 +9,7 @@
   <h1>
     <marquee bgcolor="green">
       <font color="red">ONLINE TRAINING</font>
+      <font color="red">ONLINE TRAINING</font>
     </marquee>
   </h1>
 
